@@ -1,5 +1,6 @@
 # EverVim: The Ultimate Vim Distribution
 ![EverVim](https://img.shields.io/badge/Coded%20with-EverVim-bd93f9.svg?style=flat-square)
+![EverVim-Dev-Notice](https://img.shields.io/badge/Develop%20Branch-Breaking%20Changes%20Taking%20Place-yellow.svg)
 [![Build status](https://ci.appveyor.com/api/projects/status/v06dkj0d3irjxntr?svg=true)](https://ci.appveyor.com/project/LER0ever/evervim)
 
 ![evervim-header-1](https://i.imgur.com/T0CBBbk.png "EverVim with VimR on macOS")
@@ -8,6 +9,10 @@
 * * *
 
 ## | [About](https://github.com/LER0ever/EverVim/blob/master/README.md#about) | [Installation](https://github.com/LER0ever/EverVim/blob/master/README.md#installation) | [Features](https://github.com/LER0ever/EverVim/blob/master/README.md#features) | [ScreenShots](https://github.com/LER0ever/EverVim/blob/master/README.md#screenshots) | [Documentation!](https://github.com/LER0ever/EverVim/wiki) | [License](https://github.com/LER0ever/EverVim/blob/master/README.md#license) |
+
+| Repository   | L.E.R Code                                                                                   | GitLab                                                                               | Github                                                                                  |
+| :---:        | :---:                                                                                        | :---:                                                                                | :---:                                                                                   |
+| Mirror Links | [![L.E.R Code](https://i.imgur.com/GUOHP8J.jpg)](https://code.rongyi.io/LER0ever/EverVim) | [![Gitlab](https://i.imgur.com/N98H7NZ.png)](https://gitlab.com/LER0ever/EverVim) | [![MS Github](https://i.imgur.com/MSiHESF.png)](https://github.com/LER0ever/EverVim) |
 
 ## About
 EverVim is the ultimate vim distribution that supports **NeoVim**, Vim, GVim and MacVim. It ships with tons of powerful features through vim plugins, which makes it easy to get started for both newcomers and experienced users.
